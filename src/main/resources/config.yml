@@ -1,0 +1,12 @@
+multiplier: 150
+drops:
+  - level: all
+    items:
+      - DRAGON_EGG
+  - level: 1
+    xp: 100
+
+colors:
+  main: "#9A69BF"
+  level: "#FFACAC"
+  separator: "#7F8B95"
